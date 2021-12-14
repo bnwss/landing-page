@@ -1,0 +1,19 @@
+.card-white {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 15px 35px rgba(50, 50, 93, 0.4);
+  margin: 12px auto;
+  text-align: center;
+}
+
+
+#social-media-list li {
+  display: inline;
+  font-size: 40px;
+}
+
+#social-media-list li :hover {
+  color: #8c8f9f;
+  transition: 0.5s;
+}
